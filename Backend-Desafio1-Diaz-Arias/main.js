@@ -48,7 +48,7 @@ class ProductManager {
     title: "producto prueba",
     description: "Este es un producto prueba",
     price: 200,
-    thumbnail: "Sin imagen",
+    thumbnail: "https://www.kourus.cl/wp-content/uploads/2023/03/icono-de-concepto-degradado-azul-prueba-producto-investigacion-profesional-analisis-datos-ilustracion-linea-delgada-idea-190698993.jpeg",
     code: "abc123",
     stock: 25,
   });
@@ -62,7 +62,7 @@ class ProductManager {
       title: "producto prueba",
       description: "Este es un producto prueba",
       price: 200,
-      thumbnail: "Sin imagen",
+      thumbnail: "https://www.kourus.cl/wp-content/uploads/2023/03/icono-de-concepto-degradado-azul-prueba-producto-investigacion-profesional-analisis-datos-ilustracion-linea-delgada-idea-190698993.jpeg",
       code: "abc123",
       stock: 25,
     });
